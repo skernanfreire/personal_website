@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Knowledge and Intelligence Design</a>. Department of Sustainable Design Engineering. Faculty of Industrial Design Engineering. Technical University of Delft.
+subtitle: [<a href='#'>Knowledge and Intelligence Design</a>](https://www.tudelft.nl/io/over-io/afdelingen/sustainable-design-engineering/kind). [Department of Sustainable Design Engineering](https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/). Faculty of Industrial Design Engineering. TU Delft.
 
 profile:
   align: right
