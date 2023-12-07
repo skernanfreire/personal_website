@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Knowledge and Intelligence Design Group, Department of Sustainable Design Engineering, Faculty of Industrial Design Engineering, TU Delft.
+subtitle: <a href='#'>Knowledge and Intelligence Design Group</a>. Address. Contacts. Etc.
 
 profile:
   align: right
