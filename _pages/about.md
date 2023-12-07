@@ -20,4 +20,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, I am Samuel
+Samuel's research is focused on exploring how AI can provide human-centered knowledge management for workers.
