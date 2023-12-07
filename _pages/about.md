@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [<a href='#'>Knowledge and Intelligence Design</a>](https://www.tudelft.nl/io/over-io/afdelingen/sustainable-design-engineering/kind). [Department of Sustainable Design Engineering](https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/). Faculty of Industrial Design Engineering. TU Delft.
+subtitle: Knowledge and Intelligence Design Group, Department of Sustainable Design Engineering, Faculty of Industrial Design Engineering, TU Delft.
 
 profile:
   align: right
@@ -21,3 +21,5 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Samuel's research is focused on exploring how AI can provide human-centered knowledge management for workers.
+
+<a href="https://www.tudelft.nl/io/over-io/afdelingen/sustainable-design-engineering/kind">Knowledge and Intelligence Design</a>. [Department of Sustainable Design Engineering](https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/). Faculty of Industrial Design Engineering. TU Delft.
